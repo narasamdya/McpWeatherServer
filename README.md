@@ -1,0 +1,2 @@
+# McpWeatherServer
+Weather server MCP
